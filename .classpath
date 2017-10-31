@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="jars/commons-codec-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/commons-collections-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/commons-io-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/commons-lang3-3.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/cssparser-0.9.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/htmlunit-2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/htmlunit-core-js-2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/httpclient-4.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/httpcore-4.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/httpmime-4.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/nekohtml-1.9.22.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/sac-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/serializer-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/websocket-api-9.2.11.v20150529.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/websocket-client-9.2.11.v20150529.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/websocket-common-9.2.11.v20150529.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/xalan-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/xercesImpl-2.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/xml-apis-1.4.01.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/jetty-io-9.2.11.v20150529.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/jetty-util-9.2.11.v20150529.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/jshortcut-dist.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/jshortcut-oberzalek.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/jshortcut.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

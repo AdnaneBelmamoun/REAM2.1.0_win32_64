@@ -11,9 +11,7 @@ public class MainDem2 {
         try {
             link = new JShellLink();
             filePath = JShellLink.getDirectory("")
-                + "/root/ADE2014_v3_18july2014.pdf";//"C:\\Program Files\\Internet Explorer\\iexplore.exe";
-
-        } catch (Exception e) {
+            } catch (Exception e) {
 
         }
 
